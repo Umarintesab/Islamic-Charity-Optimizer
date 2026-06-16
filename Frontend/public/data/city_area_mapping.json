@@ -1,0 +1,1787 @@
+[
+  {
+    "City": "Islamabad",
+    "Area": "Bahria Enclave",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "Bani Gala",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "Bhara Kahu",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "Blue Area",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "Chak Shahzad",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "DHA Phase 1",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "DHA Phase 2",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "E-10",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "E-11",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "E-7",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "E-8",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "E-9",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "F-10",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "F-11",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "F-6",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "F-7",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "F-8",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "G-10",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "G-11",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "G-12",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "G-13",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "G-14",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "G-5",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "G-6",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "G-7",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "G-8",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "G-9",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "Golra",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "Gulberg Greens",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "H-10",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "H-11",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "H-12",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "H-8",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "H-9",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "I-10",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "I-11",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "I-12",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "I-8",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "I-9",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "Nilore",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "PWD",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "Shahdara",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "Sihala",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "Soan Gardens",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Islamabad",
+    "Area": "Taramri",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "KPK",
+    "Area": "Abbottabad",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "KPK",
+    "Area": "Akora Khattak",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "KPK",
+    "Area": "Bajaur",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "KPK",
+    "Area": "Bannu",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "KPK",
+    "Area": "Barikot",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "KPK",
+    "Area": "Batagram",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "KPK",
+    "Area": "Buner",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "KPK",
+    "Area": "Charsadda",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "KPK",
+    "Area": "Chitral Lower",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "KPK",
+    "Area": "Chitral Upper",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "KPK",
+    "Area": "Dera Ismail Khan",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "KPK",
+    "Area": "Dir Lower (Timergara)",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "KPK",
+    "Area": "Dir Upper",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "KPK",
+    "Area": "Hangu",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "KPK",
+    "Area": "Haripur",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "KPK",
+    "Area": "Jamrud",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "KPK",
+    "Area": "Jehangira",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "KPK",
+    "Area": "Kabal",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "KPK",
+    "Area": "Kaghan (Naran)",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "KPK",
+    "Area": "Kala Dhaka",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "KPK",
+    "Area": "Kalam",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "KPK",
+    "Area": "Karak",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "KPK",
+    "Area": "Katlang",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "KPK",
+    "Area": "Khyber",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "KPK",
+    "Area": "Kohat",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "KPK",
+    "Area": "Kurram",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "KPK",
+    "Area": "Lakki Marwat",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "KPK",
+    "Area": "Landikotal",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "KPK",
+    "Area": "Malakand",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "KPK",
+    "Area": "Mansehra",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "KPK",
+    "Area": "Mardan",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "KPK",
+    "Area": "Matta",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "KPK",
+    "Area": "Mohmand",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "KPK",
+    "Area": "Nowshera",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "KPK",
+    "Area": "Orakzai",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "KPK",
+    "Area": "Peshawar",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "KPK",
+    "Area": "Razzar",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "KPK",
+    "Area": "Risalpur",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "KPK",
+    "Area": "Rustam",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "KPK",
+    "Area": "Shabqadar",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "KPK",
+    "Area": "Shangla",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "KPK",
+    "Area": "Shergarh",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "KPK",
+    "Area": "Shewa Adda",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "KPK",
+    "Area": "Swabi",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "KPK",
+    "Area": "Swat",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "KPK",
+    "Area": "Swat (Mingora)",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "KPK",
+    "Area": "Takht Bhai",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "KPK",
+    "Area": "Tangi",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "KPK",
+    "Area": "Tank",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "KPK",
+    "Area": "Topi",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "KPK",
+    "Area": "Torghar",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Airport",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Akhtar Colony",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Ayesha Manzil",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Bahadurabad",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Baldia Town",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Boat Basin",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Buffer Zone",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Clifton",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Karachi",
+    "Area": "DHA",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Karachi",
+    "Area": "DHA Phase 1",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Karachi",
+    "Area": "DHA Phase 2",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Karachi",
+    "Area": "DHA Phase 4",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Karachi",
+    "Area": "DHA Phase 5",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Karachi",
+    "Area": "DHA Phase 6",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Karachi",
+    "Area": "DHA Phase 7",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Karachi",
+    "Area": "DHA Phase 8",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Defence View",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Federal B Area",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Garden",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Gulberg",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Gulistan-e-Jauhar",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Gulshan",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Gulshan-e-Iqbal",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Hawksbay",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Johar",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Keamari",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Khadda Market",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Kharadar",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Korangi",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Landhi",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Lea Market",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Lyari",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Malir",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Manzoor Colony",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Model Colony",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Mominabad",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Nagan Chowrangi",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Nazimabad",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Karachi",
+    "Area": "New Karachi",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Karachi",
+    "Area": "North Nazimabad",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Numaish",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Orangi",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Orangi Town",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Karachi",
+    "Area": "PECHS",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Karachi",
+    "Area": "SITE",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Saddar",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Safoora",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Scheme 33",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Sea View",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Shah Faisal Colony",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Surjani",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Surjani Town",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Taiser Town",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Karachi",
+    "Area": "Tariq Road",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Karachi",
+    "Area": "University Road",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Allama Iqbal Town",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Anarkali",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Askari 10",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Bahria Town",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Barki",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Bedian Road",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Canal Bank Road",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Cantt",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Chung",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Lahore",
+    "Area": "DHA",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Lahore",
+    "Area": "DHA Phase 1",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Lahore",
+    "Area": "DHA Phase 2",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Lahore",
+    "Area": "DHA Phase 3",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Lahore",
+    "Area": "DHA Phase 4",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Lahore",
+    "Area": "DHA Phase 5",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Lahore",
+    "Area": "DHA Phase 6",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Lahore",
+    "Area": "DHA Phase 7",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Lahore",
+    "Area": "DHA Phase 8",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Data Darbar",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Defense Raya",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Faisal Town",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Ferozepur Road",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Garden Town",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Garhi Shahu",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Green Town",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Gulberg",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Gulberg I",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Gulberg II",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Gulberg III",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Harbanspura",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Iqbal Town",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Johar Town",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Kot Lakhpat",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Lahore",
+    "Area": "LDA Avenue",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Lahore Fort Area",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Lake City",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Mazang Chungi",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Model Town",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Mozang",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Multan Road",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Quaid-e-Azam Industrial Estate",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Raiwind",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Raiwind Road",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Sabzazar",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Samanabad",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Shadman",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Shahdara",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Shalimar",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Thokar Niaz Baig",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Township",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Valencia",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Lahore",
+    "Area": "Wapda Town",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Andar Shehar",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Badaber",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Bara Road",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Budhni",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Cantt",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Chamkani",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Charsadda Road",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Dabgari Gardens",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Dalazak Road",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Faqirabad",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "GT Road",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Gulbahar",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Gulshan Colony",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Haji Camp",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Hashtnagri",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Hayatabad",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Hayatabad Industrial Estate",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Hayatabad Phase 1",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Hayatabad Phase 2",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Hayatabad Phase 3",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Hayatabad Phase 4",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Hayatabad Phase 5",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Hayatabad Phase 6",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Hayatabad Phase 7",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Karkhano Market",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Khyber Bazaar",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Kishta",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Kohat Road",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Malakandher",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Mardan Road",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Matiari",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Nasir Bagh",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Nauthia",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Pabbi Road",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Pishtakhara",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Pushtakhara Bala",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Pushtakhara Payan",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Regi Model Town",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Ring Road",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Ring Road Extension",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Saddar",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Samar Bagh",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Shaheen Town",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Shahi Bagh",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Sherpao",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Tehkal",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Township",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "University Town",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Warsak Road",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Peshawar",
+    "Area": "Yakatoot",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "6th Road",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Adiala Road",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Adyala",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Airport Housing Society",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Askari 14",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Askari 7",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Bahria Town",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Bahria Town Phase 1",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Bahria Town Phase 2",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Bahria Town Phase 3",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Bahria Town Phase 4",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Bahria Town Phase 5",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Bahria Town Phase 6",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Bahria Town Phase 7",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Bahria Town Phase 8",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Banni",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Cantt",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Chaklala",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Chaklala Scheme 1",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Chaklala Scheme 3",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Chakri Road",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Commercial Market",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Committee Chowk",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "DHA Phase 1",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "DHA Phase 2",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "DHA Phase 3",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "DHA Phase 4",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Dhamial",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Faizabad",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Ghauri Town",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Gujar Khan",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Gulraiz",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "IJP Road",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Kallar Syedan Road",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Khanna",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Khurram Colony",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Kohinoor Mills",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Koral Chowk",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Liaquat Bagh",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Morgah",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Murree Road",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "New Katarian",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "PWD",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Peshawar Road",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Pirwadhai",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Raja Bazaar",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Ratta Amral",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Saddar",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Satellite Town",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Sawan Camp",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Shamsabad",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Tench Bhatta",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Rawalpindi",
+    "Area": "Westridge",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Badin",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Bulri Shah Karim",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Chachro",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Dadu",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Daharki",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Diplo",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Dokri",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Ghotki",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Golarchi",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Hala",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Hyderabad",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Jacobabad",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Jamshoro",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Jati",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Kambar",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Kandiaro",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Karachi",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Kashmore",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Keti Bandar",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Khairpur",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Kotri",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Kunri",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Larkana",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Matiari",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Matli",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Mehrabpur",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Mirpur Khas",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Mirpur Mathelo",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Mirpur Sakro",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Mirpurkhas",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Moro",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Nagarparkar",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Naushahro Feroze",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Nawabshah (Shaheed Benazirabad)",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Pano Aqil",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Qambar Shahdadkot",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Ranipur",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Ratodero",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Rohri",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Samaro",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Sanghar",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Sehwan",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Shikarpur",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Sukkur",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Tando Adam",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Tando Allahyar",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Tando Muhammad Khan",
+    "Poverty_Cluster": "Medium"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Tharparkar (Mithi)",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Thatta",
+    "Poverty_Cluster": "Low"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Umerkot",
+    "Poverty_Cluster": "High"
+  },
+  {
+    "City": "Sindh",
+    "Area": "Warah",
+    "Poverty_Cluster": "Low"
+  }
+]
