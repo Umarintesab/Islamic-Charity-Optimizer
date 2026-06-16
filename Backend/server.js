@@ -1,9 +1,6 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const cors = require('cors');
-app.use(cors({
-  origin: ['https://your-frontend.netlify.app', 'http://localhost:8080']
-}));
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 require('dotenv').config();
