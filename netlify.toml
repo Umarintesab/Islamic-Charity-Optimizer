@@ -1,0 +1,7 @@
+[build]
+  base = "Frontend"
+  command = "npm ci && npm run build"
+  publish = "Frontend/build"
+
+[build.environment]
+  REACT_APP_API_URL = "https://islamic-charity-optimizer-production.up.railway.app"
