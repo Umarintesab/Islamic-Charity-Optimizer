@@ -1,42 +1,20 @@
-// const express = require('express');
-// const mongoose = require('mongoose');
-// const cors = require('cors');
-// require('dotenv').config();
-
-// const authRoutes = require('./routes/auth');
-// const charityRoutes = require('./routes/charity');
-
-// const app = express();
-
-// // Middleware
-// app.use(cors());
-// app.use(express.json());
-
-// // MongoDB Connection
-// mongoose.connect('mongodb://localhost:27017/charity_db', {
-//   useNewUrlParser: true,
-//   useUnifiedTopology: true,
-// })
-// .then(() => console.log('MongoDB connected'))
-// .catch(err => console.log('MongoDB connection error:', err));
-
-// // Routes
-// app.use('/api/auth', authRoutes);
-// app.use('/api/charity', charityRoutes);
-
-// const PORT = process.env.PORT || 5000;
-// app.listen(PORT, () => {
-//   console.log(`Server running on port ${PORT}`);
-// });
-
 const express = require('express');
 const mongoose = require('mongoose');
 const cors = require('cors');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
+require('dotenv').config();
 
+// ⚠️ CREATE APP FIRST - BEFORE using it!
 const app = express();
-app.use(cors());
+
+// ✅ CORS - Allow all origins for testing (or specify your Netlify URL)
+app.use(cors({
+  origin: 'https://your-netlify-site.netlify.app', // Replace with your actual Netlify URL
+  credentials: true
+}));
+
+// ✅ Middleware
 app.use(express.json());
 
 // MongoDB Connection
@@ -102,7 +80,8 @@ app.post('/api/login', async (req, res) => {
   }
 });
 
-app.listen(5000, () => {
-  console.log('🚀 Server running on port 5000');
+// ✅ Start Server
+const PORT = process.env.PORT || 5000;
+app.listen(PORT, () => {
+  console.log(`🚀 Server running on port ${PORT}`);
 });
-
