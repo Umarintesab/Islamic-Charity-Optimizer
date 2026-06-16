@@ -21,10 +21,9 @@ export const AuthProvider = ({ children }) => {
     setLoading(false);
   }, []);
 
-  // LOGIN - Backend API Call
   const login = async (email, password) => {
     try {
-      const response = await axios.post(`${API_URL}/login`, { email, password });
+      const response = await axios.post(`${API_URL}/api/login`, { email, password }); // ✅ fixed
       if (response.data.success) {
         localStorage.setItem('token', response.data.token);
         localStorage.setItem('user', JSON.stringify(response.data.user));
@@ -39,22 +38,21 @@ export const AuthProvider = ({ children }) => {
     }
   };
 
-  // REGISTER - Backend API Call
   const register = async (firstName, lastName, email, password, confirmPassword) => {
     if (password !== confirmPassword) {
       return { success: false, error: 'Passwords do not match', shouldRedirectToLogin: false };
     }
-    
+
     try {
-      const response = await axios.post(`${API_URL}/register`, {
+      const response = await axios.post(`${API_URL}/api/register`, { // ✅ fixed
         firstName, lastName, email, password
       });
-      
+
       if (response.data.success) {
-        return { 
-          success: true, 
-          message: response.data.message, 
-          shouldRedirectToLogin: true 
+        return {
+          success: true,
+          message: response.data.message,
+          shouldRedirectToLogin: true
         };
       }
       return { success: false, error: response.data.error };
